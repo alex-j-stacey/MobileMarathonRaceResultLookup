@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Marathon.MainPage" Padding="20,60,20,40">
+    <StackLayout>
+        <Label Text="Race Results" FontSize="Large" HorizontalOptions="Center" />
+        <ListView x:Name="ResultListView" />
+        <Picker x:Name="RacePicker" Title="Please Pick a Race" ItemDisplayBinding="{Binding race_name}" SelectedIndexChanged="RacePicker_SelectedIndexChanged"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{49E4D66E-66C2-48C9-9942-9D775BA8FE6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Marathon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5960E371-D1D4-4466-98E1-2A231AA12CB2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Marathon/Models/Result.cs">
+    <Files>
+      <File FileName="Marathon/MainPage.xaml" Line="6" Column="158" />
+      <File FileName="Marathon/MainPage.xaml.cs" Line="57" Column="61" />
+      <File FileName="Marathon/Models/Race.cs" Line="15" Column="1" />
+      <File FileName="Marathon/Models/Result.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Marathon" expanded="True">
+            <Node name="Marathon" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Result.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Marathon.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
